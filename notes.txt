@@ -1,0 +1,1 @@
+https://www.railstutorial.org/book/toy_app#sec-modeling_demo_users
